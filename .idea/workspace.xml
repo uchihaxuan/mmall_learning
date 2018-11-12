@@ -7,7 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="094a6613-4be0-48db-92e6-0f896288efcb" name="Default Changelist" comment="git init">
+    <list default="true" id="094a6613-4be0-48db-92e6-0f896288efcb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/alipay/demo/trade/DemoHbRunner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/alipay/demo/trade/Main.java" afterDir="false" />
@@ -196,7 +196,7 @@
           <entry key="java" value="12520" />
           <entry key="jsp" value="26" />
           <entry key="properties" value="159" />
-          <entry key="txt" value="11" />
+          <entry key="txt" value="14" />
           <entry key="xml" value="995" />
         </counts>
       </usages-collector>
@@ -205,7 +205,7 @@
           <entry key="HTML" value="1293" />
           <entry key="JAVA" value="12520" />
           <entry key="JSP" value="26" />
-          <entry key="PLAIN_TEXT" value="277" />
+          <entry key="PLAIN_TEXT" value="280" />
           <entry key="Properties" value="159" />
           <entry key="SQL" value="22" />
           <entry key="XML" value="973" />
@@ -658,43 +658,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="mmall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
@@ -711,7 +681,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -719,7 +688,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541407382698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542016226726" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -973,7 +942,7 @@
       <workItem from="1541644109743" duration="1451000" />
       <workItem from="1541654145953" duration="976000" />
       <workItem from="1541657823359" duration="1235000" />
-      <workItem from="1542015752253" duration="125000" />
+      <workItem from="1542015752253" duration="407000" />
     </task>
     <servers />
   </component>
@@ -989,7 +958,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95207000" />
+    <option name="totallyTimeSpent" value="95614000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1002,6 +971,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="0" width="1594" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.26609725" />
       <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.12070815" />
@@ -1081,7 +1051,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
-    <option name="LAST_COMMIT_MESSAGE" value="git init" />
+    <MESSAGE value="git end" />
+    <option name="LAST_COMMIT_MESSAGE" value="git end" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
